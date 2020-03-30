@@ -18,3 +18,9 @@ The ecard uses a 2032 battery, and here is some of the components:
 - Texas Instruments [HC368](./sn74hc368.pdf) (bottom right of circuit board)
 - 24C02M, which is an [E2PROM](https://en.wikipedia.org/wiki/EEPROM) (bottom left of curcuit board). Couldn't find the exact component, but you can see many similar here: https://www.qdatasheet.com/search.jsp?sWord=24C02M&op=i
 - [MC705J1ACDWE](https://www.newark.com/nxp/mc705j1acdwe/microcontroller-mcu-8-bit-hc05/dp/40K7393?CMP=AFC-SF-FC), a microcontroller (in the middle)
+
+Unindentified components:
+
+- Top left, with large numbers `32.768` (the component is removed in last picture, by accident...)
+- Component to the left of battery, with something similar to `Pf 7 AK` and `C040G08CM` on it.
+- White component to the left of microcontroller.
