@@ -1,6 +1,6 @@
 # EMIT e-card information
 
-The EMIT e-card is used for orienteering races, to register control codes and split times. When punching, the e-card registers the unit's code and running time. The e-card can store up to 50 split times. The split times are stored internal in the e-card until restarted on a starting unit.
+The [EMIT e-card](https://www.emit.no/en/product/ver5-e-card-389) is used for orienteering races, to register control codes and split times. When punching, the e-card registers the unit's code and running time. The e-card can store up to 50 split times. The split times are stored internal in the e-card until restarted on a starting unit.
 
 ![](./emit-ecard-outside.jpg)
 ![](./emit-ecard-inside.jpg)
@@ -9,7 +9,7 @@ The EMIT e-card is used for orienteering races, to register control codes and sp
 ![](./emit-ecard-circuit-board-back.jpg)
 ![](./emit-ecard-circuit-board-front2.jpg)
 
-The ecard is used with a control unit like this:
+The ecard is used with a [control unit](https://www.emit.no/en/product/emit-control-unit-398) like this:
 
 ![](./emit-control-unit.png)
 
