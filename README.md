@@ -9,7 +9,7 @@ The [EMIT e-card](https://www.emit.no/en/product/ver5-e-card-389) is used for or
 ![](./emit-ecard-circuit-board-back.jpg)
 ![](./emit-ecard-circuit-board-front2.jpg)
 
-The ecard is used with a [control unit](https://www.emit.no/en/product/emit-control-unit-398) like this:
+The ecard is used with a [control unit](https://emit.no/nettbutikk/emitag/epost/) like this:
 
 ![](./emit-control-unit.png)
 
