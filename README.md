@@ -30,9 +30,4 @@ The product photographs and descriptions do not establish that the board picture
 ## Research notes
 
 - [Confirmed markings and datasheets](./docs/components.md) records only text that can be read from the photographs.
-- [Public documents and known gaps](./docs/research-status.md) separates published facts from the evidence still needed for a schematic or board model.
-
-## Reconstruction status
-
-This repository does not yet contain physical dimensions, a schematic, a PCB layout, a netlist, firmware, coil measurements, or captures of the card-to-unit communication.
-A board model made from the current photographs would therefore be speculative and has not been added.
+- [Public documents](./docs/public-documents.md) collects official product and reader information.
