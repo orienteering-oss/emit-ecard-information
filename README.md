@@ -1,9 +1,11 @@
 # EMIT e-card information
 
 This repository collects public information and teardown photographs for the EMIT electronic punching card used in orienteering.
+Competitors carry the card around a course and punch it at each control to record that they visited the control and the time of the visit.
 
-The exterior photograph shows card number `118553` and the separate text `06 10`.
-The repository does not establish what `06 10` means or which e-card hardware version is pictured.
+The exterior photograph shows card identifier `118553`, which is a running card number.
+The separate date code `06 10` means that the card was made in June 2010: `06` is the month and `10` is the year.
+The repository does not establish which e-card hardware version is pictured.
 
 ## Current public information
 
